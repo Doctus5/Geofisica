@@ -1,0 +1,12 @@
+/	CG-5 SURVEY
+/	Survey name:   	dia 4
+/	Instrument S/N:	41120
+/	Client:        	uniandes
+/	Operator:      	grupo a
+/	Date:          	2014/ 9/23
+/	Time:          	08:57:44
+/	LONG:        	74.9030991 W
+/	LAT:         	4.9915137 N
+/	ZONE:        	0       
+/	GMT DIFF.:   	0.0 
+/------LINE-----STATION-----ALT.------GRAV.---SD.--TILTX--TILTY-TEMP---TIDE---DUR-REJ-----TIME----DEC.TIME+DATE--TERRAIN---DATE
